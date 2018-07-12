@@ -17,7 +17,7 @@ title: Maxime Eglem
 email: maxime.eglem@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my Jekyll Website
-baseurl: "" # the subpath of y&our site, e.g. /blog
+baseurl: "/maximeeglem" # the subpath of y&our site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: maximeeglem
 github_username:  maximeeglem
@@ -25,7 +25,7 @@ github_username:  maximeeglem
 # Build settings
 markdown: kramdown
 # theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
